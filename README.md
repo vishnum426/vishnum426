@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishnum426
-- 👀 I’m interested in Python , Data Science and  Machine Learning with python
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in Python ,Data Engineering, Data Science and  Machine Learning with python
+- 🌱 I’m currently learning Python P{yspark
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...vishnum426@gmail.com
 
